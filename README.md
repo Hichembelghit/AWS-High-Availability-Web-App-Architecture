@@ -52,7 +52,7 @@ the goal was to design and deploy a **highly available, secure, and scalable** a
 
 ## 📐 architecture diagram
 
-![Architecture Diagram](Diagram.drawio.png)
+![Architecture Diagram](Diagram.png)
 
 ---
 
