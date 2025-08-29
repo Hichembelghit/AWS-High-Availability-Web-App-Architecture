@@ -1,7 +1,5 @@
 # AWS-High-Availability-Web-App-Architecture
 
-# 🌩️ AWS High Availability Web App Architecture
-
 this is a small project i built as part of my devops/cloud learning journey.
 
 the goal was to design and deploy a **highly available, secure, and scalable** architecture on aws — something real, not just diagrams.
